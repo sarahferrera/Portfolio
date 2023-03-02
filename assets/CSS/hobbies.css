@@ -19,8 +19,9 @@
 }
 
 .hobbies__name{
-    color: var(--color-fuente-gris-oscuro);
     margin: 0.5rem 0 0 0;
+    font-weight: bold;
+
 }
 
 /*Mobile*/

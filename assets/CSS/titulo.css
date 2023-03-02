@@ -9,8 +9,8 @@
 }
 
 .title__subsection {
-    color: var(--color-fuente-gris-oscuro);
-    font-size: 0.9rem;
+    font-size: 14px;
+    font-weight: normal;
 }
 
 .title__network {
@@ -21,6 +21,7 @@
     text-align: center;
     list-style: none;
     padding: 0 1rem 0 0;
+    font-size: 14px;
 }
 
 /*Mobile*/

@@ -18,17 +18,14 @@
 .experience__title{
     font-size: 1rem;
     font-weight: 700;
-    color: var(--color-fuente-gris-oscuro);
     /* margin-top: 0; */
 }
 
 .experience__text{
-    font-size: 0.7rem;
-    color: var
-    var(--color-fuente-gris-oscuro);
+    font-size: 14px;
     margin: 0.7rem 0;
     /* margin-top: 0; */
-    font-weight: 100;
+    font-weight: 500;
 }
 
 .experiencia__botao--repo{

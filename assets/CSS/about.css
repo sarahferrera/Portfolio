@@ -5,11 +5,12 @@ section.about {
 }
 
 .about__title{
-    font-size: bold;
+    font-weight: bold;
+    font-size: 22px;
 }
 
 .about__paragraph{
-    color: var(--color-fuente-gris-oscuro);
+    font-size: 14px;
 }
 
 /*Mobile*/
