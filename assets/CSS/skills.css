@@ -1,0 +1,54 @@
+/*Sección Skills*/
+
+.skills__title{
+    text-align: center;
+}
+
+.skills__line{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.skills__box{
+    display: flex;
+    margin: 2rem 0 0;
+    background-color: var(--color-bg-box);
+    align-items:end;
+    justify-content: space-between;
+}
+
+.skills__name{
+    color: var(--color-fuente-gris-oscuro);
+    margin: 0.5rem 0 0 0;
+}
+
+/*Mobile*/
+@media (min-width: 0px) {
+
+    .skills__box{
+        width: 156px;
+        height: 118px;
+    }
+
+}
+
+
+/*Tablet*/
+@media (min-width: 768px) {
+
+    .skills__box{
+        width: 224px;
+        height: 118px;
+    }
+
+
+}
+
+/*PC*/
+@media (min-width: 1000px) {
+    .skills__box{
+        width: 176px;
+        height: 174px;
+    }
+}

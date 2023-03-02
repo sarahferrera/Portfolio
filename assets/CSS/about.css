@@ -1,0 +1,32 @@
+/*Sección About*/
+
+section.about {
+    background-color: var(--color-bg-about);
+}
+
+.about__title{
+    font-size: bold;
+}
+
+.about__paragraph{
+    color: var(--color-fuente-gris-oscuro);
+}
+
+/*Mobile*/
+@media (min-width: 0px) {
+
+
+}
+
+/*Tablet*/
+@media (min-width: 768px) {
+
+
+}
+
+/*PC*/
+@media (min-width: 1000px) {
+    .about__paragraph{
+        width: 751px;
+    }
+}

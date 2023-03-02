@@ -1,0 +1,14 @@
+/*footeer*/
+
+section.footer {
+    background-color: var(--color-bg-box);
+    color: var(--color-fuente-gris-oscuro);
+    text-align: center;
+    font-size: 0.8rem;
+    padding: 2rem
+}
+.footer__rodape p{
+    padding: 0;
+    margin:  0 0 0;
+
+}
