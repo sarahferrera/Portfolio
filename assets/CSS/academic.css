@@ -1,7 +1,7 @@
 /* Experiencia Académica*/
 
 section.academic {
-    background-color: var(--color-bg-about);
+    background-color: var(--color-bg-container);
     display: flex;
     flex-direction: column;
     align-items: center;

@@ -1,7 +1,7 @@
 /*Sección About*/
 
 section.about {
-    background-color: var(--color-bg-about);
+    background-color: var(--color-bg-container);
 }
 
 .about__title{

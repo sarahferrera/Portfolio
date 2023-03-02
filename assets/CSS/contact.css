@@ -1,13 +1,13 @@
 /*Contacto*/
 
 .formcontato {
-    background-color: var(--color-bg-about);
+    background-color: var(--color-bg-container);
     color: var(--color-fuente-gris-oscuro);
 }
 
 .formcontato__contacto{
     font-size: 0.8rem;
-    background-color: var(--color-bg-about);
+    background-color: var(--color-bg-container);
 
 }
 
@@ -18,7 +18,7 @@
 }
 
 .formcontato__text{
-    background-color: var(--color-bg-about);
+    background-color: var(--color-bg-container);
 
 }
 

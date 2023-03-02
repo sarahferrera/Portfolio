@@ -7,10 +7,10 @@ colocar en las secciones indicadas*/
 :root {
     /* Inserta la variable de los otros colores inspeccionando el exemplo de figma */
     /*Esfuércese por trabajar con variables, es un valioso consejo profesional*/
-    --cor-de-fundo: #F5F5F5;
+    --cor-de-fundo: #fffefe;
     --cor-de-link: #000;
     --color-fuente-gris-oscuro: #464646;
-    --color-bg-about: #EAF2FD;
+    --color-bg-container: #EAF2FD;
     --color-bg-box: #ffffff;
     --color-buttom: #2A7AE4;
     --color-font-ligth-gray:#A2A2A2;
