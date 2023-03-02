@@ -10,22 +10,24 @@ colocar en las secciones indicadas*/
     --cor-de-fundo: #fffefe;
     --cor-de-link: #000;
     --color-fuente-gris-oscuro: #464646;
-    --color-bg-container: #EAF2FD;
-    --color-bg-box: #ffffff;
+    --color-bg-container: #d1f2f2;
+    --color-bg-box: #fff;
     --color-buttom: #2A7AE4;
     --color-font-ligth-gray:#A2A2A2;
 
+    --color-dark-brown: #653031;
 
 }
 
 body {
     box-sizing: border-box;
     background-color: var(--cor-de-fundo);
-    font-family: 'Raleway', sans-serif;
+    /* font-family: 'Raleway', sans-serif; */
+    font-family: 'Playfair Display', serif;
     margin: 0;
     padding: 0;
     line-height: 1;
-    color: var(--color-fuente-gris-oscuro);
+    /* color: var(--color-fuente-gris-oscuro); */
 }
 
 ol,

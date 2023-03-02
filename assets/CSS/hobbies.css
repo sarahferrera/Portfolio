@@ -16,6 +16,8 @@
     background-color: var(--color-bg-box);
     align-items:end;
     justify-content: space-between;
+    border: 3px solid var(--color-bg-container);
+
 }
 
 .hobbies__name{

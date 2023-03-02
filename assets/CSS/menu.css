@@ -79,7 +79,7 @@ section.menu {
         margin-right: 2rem;
     }
 
-    .menu__list__item a{
+    .menu__list__item--contacto{
         font-weight: bold;
     }
     
