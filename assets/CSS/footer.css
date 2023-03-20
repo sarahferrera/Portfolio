@@ -1,6 +1,6 @@
 /*footeer*/
 
-section.footer {
+.footer {
     background-color: var(--color-bg-box);
     color: var(--color-fuente-gris-oscuro);
     text-align: center;
