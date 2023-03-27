@@ -48,7 +48,8 @@
 
 /*PC*/
 @media (min-width: 1000px) {
-    .hobbies__box{        width: 176px;
+    .hobbies__box{        
+        width: 30%;
         height: 174px;
     }
 }

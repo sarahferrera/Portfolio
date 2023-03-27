@@ -50,7 +50,7 @@
 /*PC*/
 @media (min-width: 1000px) {
     .skills__box{
-        width: 176px;
+        width: 15%;
         height: 174px;
     }
 }

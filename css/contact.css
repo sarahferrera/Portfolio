@@ -11,6 +11,10 @@
 
 }
 
+.formcontato--esquerda img{
+    width: 84%;
+}
+
 .formcontato__form{
     display: flex;
     flex-direction: column;

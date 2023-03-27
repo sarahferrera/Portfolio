@@ -7,15 +7,24 @@ colocar en las secciones indicadas*/
 :root {
     /* Inserta la variable de los otros colores inspeccionando el exemplo de figma */
     /*Esfuércese por trabajar con variables, es un valioso consejo profesional*/
-    --cor-de-fundo: #fffefe;
+    /* --cor-de-fundo: #fffefe; */
     --cor-de-link: #000;
-    --color-fuente-gris-oscuro: #464646;
-    --color-bg-container: #d1f2f2;
+    /* --color-fuente-gris-oscuro: #464646; */
+    /* --color-bg-container: #d1f2f2; */
+
+
     --color-bg-box: #fff;
     --color-buttom: #2A7AE4;
     --color-font-ligth-gray:#A2A2A2;
 
     --color-dark-brown: #653031;
+
+/* Otra gama de colores basada en la imagen del telefono rojo */
+    --color-bg-container: #DBB0AA;
+    --color-fuente-gris-oscuro: #000;
+    --cor-de-fundo: #fff;
+
+
 
 }
 

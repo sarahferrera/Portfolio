@@ -30,6 +30,8 @@ section.academic {
 
 .academic__courses__item__img img{
     width: 35%;
+    max-height: 63px;
+
 }
 
 .academic__courses__item__title{
