@@ -4,6 +4,10 @@ section.about {
     background-color: var(--color-bg-container);
 }
 
+.about__container img {
+    margin-bottom: 1rem;
+}
+
 .about__title{
     font-weight: bold;
     font-size: 22px;
@@ -11,6 +15,10 @@ section.about {
 
 .about__paragraph{
     font-size: 14px;
+}
+
+.signature{
+    width: 10%;
 }
 
 /*Mobile*/

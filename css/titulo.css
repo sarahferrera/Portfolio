@@ -1,9 +1,5 @@
 /*Sección Title*/
 
-.about__container img {
-    margin-bottom: 1rem;
-}
-
 .title__bio {
     font-weight: bold;
 }
@@ -30,7 +26,7 @@
 
     /*title*/
     .title__profile {
-        width: 27%;
+        width: 30%;
     }
 
 }
@@ -48,10 +44,10 @@
         width: 73%;
     }
 
-    .title__profile {
+    /* .title__profile {
         width: 146px;
         height: 146px;
-    }
+    } */
 
 
 }
@@ -69,8 +65,8 @@
     }
 
     .title__profile {
-        width: 368px;
-        height: 368px;
+        width: 388px;
+        height: 388px;
     }
 
     .title__bio {
