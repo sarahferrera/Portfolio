@@ -1,26 +1,26 @@
-function validarDatos(){
-    window.event.preventDefault()
-     
-    if (document.form.nombre.value=="" ) {
-        alert("Campo nombre es obligatorio")  
-        document.form.nombre.focus()
-    
-    }else if (document.form.email.value=="") {
-        alert("Campo e-mail es obligatorio")
-        document.form.email.focus() 
+function validarDatos() {
+  window.event.preventDefault();
 
-    }else if (document.form.asunto.value=="" ) {
-        alert("Campo Asunto es obligatorio")
-        document.form.asunto.focus() 
-
-    }else if (document.form.mensaje.value=="" || document.form.mensaje.value.length <= 50 ){
-        alert("Campo Mensaje es obligatorio y debe contener máximo 50 carateres") 
-        document.form.mensaje.focus()
-      
-    } else if (document.form.email.value.indexOf('@')==-1 ||
-    document.form.email.value.indexOf('.')==-1 ) {
-        alert("e-mail inválido")
-    }
-   
+  if (document.form.nombre.value == "") {
+    alert("Name field is required");
+    document.form.nombre.focus();
+  } else if (document.form.email.value == "") {
+    alert("E-mail field is required");
+    document.form.email.focus();
+  } else if (document.form.asunto.value == "") {
+    alert("This field is required");
+    document.form.asunto.focus();
+  } else if (
+    document.form.mensaje.value == "" ||
+    document.form.mensaje.value.length <= 50
+  ) {
+    alert("This field is required");
+    document.form.mensaje.focus();
+  } else if (
+    document.form.email.value.indexOf("@") == -1 ||
+    document.form.email.value.indexOf(".") == -1
+  ) {
+    alert("e-mail invalid");
+  }
 }
-    document.querySelector('form').addEventListener('submit',validarDatos)
+document.querySelector("form").addEventListener("submit", validarDatos);
